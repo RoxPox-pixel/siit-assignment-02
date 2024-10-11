@@ -1,4 +1,5 @@
 # siit-assignment-02
+
 Part 1 - random number generation, switch / if-else-if control structures
 In your local repository, create a folder called exercise-01. Inside the folder, add  index.html & main.js files. The exercise should implement the following problem:
 

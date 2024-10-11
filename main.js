@@ -29,7 +29,7 @@ switch (operation) {
 
 
 let userResult = prompt(`${firstNr} ${operation} ${secondNr} = ?`);
-userResult = Number(userResult) // de ce fara sa fac castingul asta daca mai jos in if am === nu imi valideaza corect ca e vorba de un nr?git branch -M main
+userResult = Number(userResult) // de ce fara sa fac castingul asta daca mai jos in if am === nu imi valideaza corect ca e vorba de un nr?
 
 if (userResult === realResult) {
   alert("Your answer is correct!");
